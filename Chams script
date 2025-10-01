@@ -145,6 +145,6 @@ end
 -- ะั€ะธะผะตะฝะตะฝะธะต ะฟะพะดัะฒะตัะบะธ ะบ ะฝะพะฒัะผ ะธะณั€ะพะบะฐะผ
 Players.PlayerAdded:Connect(ApplyHighlight)
 end)
-OwO:Toggle("Speed ×30", false, function(bool)
-    game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 30
+OwO:Toggle("Speed ×50", false, function(bool)
+    game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 50
 end)
